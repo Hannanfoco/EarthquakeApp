@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">task</string>
+    <string name="earthquake_title">Earthquake Title</string>
+    <string name="place">Place</string>
+    <string name="date_01_01_2023">Date: 01/01/2023</string>
+    <string name="magnitude">Magnitude</string>
+    <string name="type">Type</string>
+</resources>
